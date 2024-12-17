@@ -1,0 +1,8 @@
+{
+    "catalogs": {},
+    "aliases": {
+      "check": {
+        "script-ref": "licenses.java"
+      }
+    }
+}
