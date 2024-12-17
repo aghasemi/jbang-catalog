@@ -1,7 +1,7 @@
 {
     "catalogs": {},
     "aliases": {
-      "check": {
+      "run": {
         "script-ref": "licenses.java"
       }
     }
