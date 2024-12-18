@@ -1,2 +1,2 @@
-# licensechecker
-Check licenses of the dependencies of a project
+# Some JBang Scripts
+See jbang-catalog.json
